@@ -1,4 +1,4 @@
-# Machine Learning (Coursera)
+# [Machine Learning (Coursera)](https://www.coursera.org/learn/machine-learning)
 
 This is my approach to all Machine-Learning (Coursera) programming assignments and quizzes taught by Andrew Ng. You'll get a broad idea of machine learning algorithms after completing this course. Try to solve all assignments by yourself first, but if you get stuck somewhere, feel free to browse the code.
 
@@ -7,9 +7,9 @@ This is my approach to all Machine-Learning (Coursera) programming assignments a
 
 ## Contents
 
-* Lectures Slides
-* Solution to programming assignment
-* Solution to Quizzes
+* [Lectures Slides](https://github.com/ragibayon/Machine-Learning-Stanford/tree/master/Lectures)
+* [Solution to programming assignment](https://github.com/ragibayon/Machine-Learning-Stanford/tree/master/Programming%20Assignment)
+* [Solution to Quizzes](https://github.com/ragibayon/Machine-Learning-Stanford/tree/master/Quiz%20Feedback)
 
 ## Certificate
 
